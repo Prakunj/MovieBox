@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieStage2</string>
+
+    <string name="most_popular_label">Most Popular</string>
+    <string name="most_popular_value" translatable="false">popular</string>
+
+    <string name="highest_rated_label">Highest Rated</string>
+    <string name="highest_rated_value" translatable="false">top_rated</string>
+
+    <string name="settings_order_by_default">popularity.desc</string>
+    <string name="settings_order_by_key">sort_by</string>
+    <string name="settings_order_by_label">Sort by</string>
+
+
+    <string name="no_internet">No Internet Connection</string>
+    <string name="not_known">Not Known</string>
+
+
+    <string name="settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourites">Favourites</string>
+    <string name="trailers">Trailers</string>
+</resources>
